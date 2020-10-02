@@ -3,4 +3,3 @@ $nombre = "Pepe";
 echo $nombre ;
 
 ?>
-<hr>
